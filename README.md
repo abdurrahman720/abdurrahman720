@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **personal.abdurrahman@gmail.com**
 
-- 📄 Know about my experiences [resume.com](resume.com)
+- 📄 Know about my experiences on my [resume](https://drive.google.com/drive/folders/1hFQFnj3A-YyCHCqO5oP-a4A-8JjnCP3g)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
