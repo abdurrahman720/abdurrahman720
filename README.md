@@ -1,5 +1,7 @@
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://abdurrahman-dev.vercel.app/)
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahman720&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahman720" /> </p>
 
