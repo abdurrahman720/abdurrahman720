@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahman720" alt="abdurrahman720" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahman720&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahman720" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdurrahman_720" target="blank"><img src="https://img.shields.io/twitter/follow/abdurrahman_720?logo=twitter&style=for-the-badge" alt="abdurrahman_720" /></a> </p>
 
 - 🔭 I’m currently working on [Gossipy](https://github.com/abdurrahman720/gossipy_next_pusher)
 
-- 🌱 I’m currently learning **NextJs, Pusher Js, Prisma**
+- 🌱 I’m currently learning **NextJs, Pusher Js, SQL**
 
-- 👨‍💻 All of my projects are available at [abdurrahman.me](abdurrahman.me)
+- 👨‍💻 Don't forget to check my [portfolio](https://abdurrahman-dev.vercel.app/)
 
-- 💬 Ask me about **MongoDb, ReactJs, NextJs, Firebase**
+- 💬 Ask me about **MongoDb, ReactJs, NextJs**
 
 - 📫 How to reach me **personal.abdurrahman@gmail.com**
 
-- 📄 Know about my experiences on my [resume](https://drive.google.com/drive/folders/1hFQFnj3A-YyCHCqO5oP-a4A-8JjnCP3g)
+- 📄 Know about my experiences on my [resume](https://drive.google.com/drive/folders/1hFQFnj3A-YyCHCqO5oP-a4A-8JjnCP3g?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdurrahman_720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdurrahman_720" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdurrahman720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahman720" height="30" width="40" /></a>
 <a href="https://fb.com/abdurrahman.720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdurrahman.720" height="30" width="40" /></a>
+<a href="https://instagram.com/abdur.rahman720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdur.rahman720" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/personal_abdurr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="personal_abdurr1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/personal.abdurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="personal.abdurrahman" height="30" width="40" /></a>
 </p>
