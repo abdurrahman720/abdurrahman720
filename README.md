@@ -1,19 +1,19 @@
-[![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://abdurrahman-dev.vercel.app/)
-<h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+[![MasterHead](./header-image.png)](https://abdurrahman-dev.vercel.app/)
+<!-- <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
+<h3 align="center">A passionate MERN Stack Developer</h3> -->
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahman720&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahman720" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdurrahman_720" target="blank"><img src="https://img.shields.io/twitter/follow/abdurrahman_720?logo=twitter&style=for-the-badge" alt="abdurrahman_720" /></a> </p>
 
-- 🔭 I’m currently working on [Gossipy](https://github.com/abdurrahman720/gossipy_next_pusher)
+- 🔭 I’m currently working on [Vercelify](https://github.com/abdurrahman720/vercelify)
 
-- 🌱 I’m currently learning **NextJs, Pusher Js, SQL**
+- 🌱 I’m currently learning **specially ML along with Redis, Kafka, PostgreSQL**
 
 - 👨‍💻 Don't forget to check my [portfolio](https://abdurrahman-dev.vercel.app/)
 
-- 💬 Ask me about **MongoDb, ReactJs, NextJs**
+- 💬 Ask me about **NodeJs,webSocket,redis,kafka,AWS,Docker etc**
 
 - 📫 How to reach me **personal.abdurrahman@gmail.com**
 
