@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/abdurrahman_720" target="blank"><img src="https://img.shields.io/twitter/follow/abdurrahman_720?logo=twitter&style=for-the-badge" alt="abdurrahman_720" /></a> </p>
 
-- 🔭 I’m currently working on [Vercelify](https://github.com/abdurrahman720/vercelify)
+- 🔭 I’m currently working on [react-swipeable-button]([https://github.com/abdurrahman720/vercelify](https://github.com/abdurrahman720/react-swipeable-button))
 
-- 🌱 I’m currently learning **specially ML along with Redis, Kafka, PostgreSQL**
+- 🌱 I’m currently learning **High Scale System design, advanced NodeJs and microservice architecture**
 
 - 👨‍💻 Don't forget to check my [portfolio](https://abdurrahman-dev.vercel.app/)
 
-- 💬 Ask me about **NodeJs,webSocket,redis,kafka,AWS,Docker etc**
+- 💬 Ask me about **High Scale Product, Serverless architecture, Linux, Nodejs etc**
 
 - 📫 How to reach me **personal.abdurrahman@gmail.com**
 
